@@ -3,3 +3,8 @@ This is all the books i have found, that have helped me along my cs journey. may
 
 
 
+[Math for CS](Mathematics for Computer Science.pdf)
+
+
+
+
